@@ -1,6 +1,6 @@
 pragma solidity ^0.4.19;
 
- // component 나누는 것 처럼 contract 분할
+// component 나누는 것 처럼 contract 분할
 import "./zombiefactory.sol"; // import
 
 // interface 정의, 중괄호를 사용하지 않고, (); 사용
